@@ -1,13 +1,13 @@
-// Keep track of the current input
+// Menyimpan input saat ini
 let currentInput = '';
 
-// Function to append the clicked button value to the current input
+// Fungsi untuk menambahkan nilai tombol yang diklik ke input saat ini
 function appendToDisplay(value) {
     currentInput += value;
     document.getElementById('display').value = currentInput;
 }
 
-// Function to perform the calculation
+// Fungsi untuk melakukan perhitungan
 function calculate() {
     try {
         currentInput = eval(currentInput).toString();
@@ -17,7 +17,7 @@ function calculate() {
     }
 }
 
-// Function to clear the display
+// Fungsi untuk menghapus tampilan
 function clearDisplay() {
     currentInput = '';
     document.getElementById('display').value = '';
