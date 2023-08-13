@@ -1,6 +1,9 @@
 # Kalkulator-Seadanya
 Kalkulator seadanya representatif dari ilmu pemrograman yang seadanya
 
+## Project By
+Angga Damara Putra
+
 ## Features
 
 - Addition, subtraction, multiplication, and division operations.
@@ -25,14 +28,6 @@ Kalkulator seadanya representatif dari ilmu pemrograman yang seadanya
 ## Screenshot
 
 Coming Soon
-
-## Project By
-
-Angga Damara Putra
-
-## Project Description
-
-This calculator application is a basic implementation created to showcase my coding skills. It's designed with simplicity and aesthetics in mind. Feel free to explore the code and use it as a starting point for your own projects.
 
 ## Disclaimer
 
