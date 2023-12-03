@@ -1,8 +1,10 @@
 # Kalkulator-Seadanya
-Kalkulator seadanya representatif dari ilmu pemrograman yang seadanya
 
-## Project By
-Angga Damara Putra
+## Introduction
+The development of a makeshift calculator serves as an embodiment of a pragmatic approach within the realm of programming science. Originally conceived as a pivotal project for my candidacy as a Lab Assistant at my campus, it has since evolved into a public repository to showcase and document my programming endeavors.
+
+## Project Overview
+This repository houses a makeshift calculator project that was meticulously crafted to not only fulfill the requirements for a campus selection process but also to exemplify my dedication and proficiency in software development.
 
 ## Features
 
@@ -27,7 +29,7 @@ Angga Damara Putra
 
 ## Screenshot
 
-Coming Soon
+![Website Page](https://github.com/anggadamara/Kalkulator-Seadanya/assets/29011732/b10cf342-e1b0-4fed-b764-7b74d6c0973f)
 
 ## Disclaimer
 
