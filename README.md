@@ -10,7 +10,6 @@ This repository houses a makeshift calculator project that was meticulously craf
 
 - Addition, subtraction, multiplication, and division operations.
 - Clear button to reset the calculator's display.
-- Responsive design for various screen sizes.
 
 ## Technologies Used
 
